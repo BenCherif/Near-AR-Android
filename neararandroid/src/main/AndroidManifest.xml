@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inkkal.neararandroid">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!--  use the element in your manifest file to filter your application from devices that
+    do not have the appropriate sensor configuration for your application.   -->
+    <!--   <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true" />
+    -->
+</manifest>

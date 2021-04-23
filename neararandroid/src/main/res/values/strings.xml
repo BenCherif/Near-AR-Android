@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Near AR</string>
+    <string name="permissions_not_granted">You must to allow permissions that app required</string>
+    <string name="permission_recheck_question">Check again</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">"Error : %1$s. Restart compass ?"</string>
+</resources>

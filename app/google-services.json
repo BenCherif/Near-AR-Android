@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17652200391",
+    "firebase_url": "https://inkkal-com-project.firebaseio.com",
+    "project_id": "inkkal-com-project",
+    "storage_bucket": "inkkal-com-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17652200391:android:c808a6dfeb938d37109fe2",
+        "android_client_info": {
+          "package_name": "com.inkkal.nearandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17652200391-udj2ekj4bbp5g1sno407064gbohlnivv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHr1iG1DiwGpUseXZXyqAAYmq6DfjACle"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17652200391-udj2ekj4bbp5g1sno407064gbohlnivv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
